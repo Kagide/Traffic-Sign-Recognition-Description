@@ -275,7 +275,7 @@ We welcome contributions! Please follow these steps:
 
 ## 📧 Contact
 
-**Your Name**
+
 - LinkedIn:https://www.linkedin.com/in/kagiraneza-egide-124141296/
 - Email: kagide6@example.com
 
